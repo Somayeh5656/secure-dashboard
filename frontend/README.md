@@ -17,8 +17,3 @@ cd C:\Users\Omistaja\Desktop\secure-dashboard\frontend
   npm run dev
   
 
-test@example.com 
-mypassword
-
-user1@example.com
-1234567
