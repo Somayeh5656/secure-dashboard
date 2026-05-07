@@ -1,10 +1,11 @@
 # Secure Role‑Based Dashboard
-Author Name : Somayeh Mozaffari
+## Author Name : Somayeh Mozaffari
+
 A full‑stack web application demonstrating secure authentication, role‑based access control (RBAC), and protection against common web vulnerabilities (OWASP Top 10). Built with **React (TypeScript)** on the frontend and **Python Flask** on the backend.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **User registration & login** (supports username or email)
 - **Two roles**: `Admin` and `Regular user`
@@ -30,7 +31,7 @@ A full‑stack web application demonstrating secure authentication, role‑based
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Layer          | Technology                                                      |
 |----------------|-----------------------------------------------------------------|
@@ -42,7 +43,7 @@ A full‑stack web application demonstrating secure authentication, role‑based
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 secure-dashboard/
@@ -76,7 +77,7 @@ secure-dashboard/
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 
@@ -138,7 +139,7 @@ secure-dashboard/
 
 ---
 
-## 🔐 Security Features Explained
+##  Security Features Explained
 
 | Attack                | Mitigation                                                                                         |
 |-----------------------|----------------------------------------------------------------------------------------------------|
@@ -154,7 +155,7 @@ secure-dashboard/
 
 ---
 
-## 🧪 Testing Security (Manual)
+##  Testing Security (Manual)
 
 You can verify the protections:
 
@@ -166,17 +167,16 @@ You can verify the protections:
 
 ---
 
-## 🤖 AI Usage
+##  AI Usage
 
 This project used AI (ChatGPT) for:
-- Generating boilerplate Flask routes and React components
-- Refactoring TypeScript type definitions
+- Figma AI for generating UI
 - Debugging CSRF cookie and session issues
 All generated code was manually reviewed and adapted for security.
 
 ---
 
-## 📝 Future Improvements
+##  Future Improvements
 
 - Two‑factor authentication (TOTP) using `pyotp`
 - Password reset via email
@@ -185,7 +185,7 @@ All generated code was manually reviewed and adapted for security.
 
 ---
 
-## 📄 License
+##  License
 
 This project was created as a course assignment for **COMP.SEC.300 Secure Programming** at Tampere University.
 
