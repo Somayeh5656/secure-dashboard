@@ -1,5 +1,5 @@
 # Secure Role‑Based Dashboard
-
+Author Name : Somayeh Mozaffari
 A full‑stack web application demonstrating secure authentication, role‑based access control (RBAC), and protection against common web vulnerabilities (OWASP Top 10). Built with **React (TypeScript)** on the frontend and **Python Flask** on the backend.
 
 ---
